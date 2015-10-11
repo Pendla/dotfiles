@@ -1,0 +1,63 @@
+{
+	"always_show_minimap_viewport": false,
+	"auto_indent": true,
+	"bold_folder_labels": true,
+	"caret_extra_width": 5,
+	"caret_style": "phase",
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
+	"detect_indentation": false,
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": true,
+	"fold_buttons": true,
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 12,
+	"font_weight": 200,
+	"gutter": true,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Ruby on Rails snippets",
+		"SyncedSideBar",
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"indent_subsequent_lines": true,
+	"indent_to_bracket": false,
+	"line_height": 1.5,
+	"line_numbers": true,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"move_to_limit_on_up_down": false,
+	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"show_encoding": true,
+	"smart_indent": true,
+	"spacegray_tabs_auto_width": true,
+	"spacegray_tabs_font_large": true,
+	"spacegray_tabs_xlarge": true,
+	"spell_check": false,
+	"tab_size": 2,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": true,
+	"word_separators": "./()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": false,
+	"wrap_width": 0
+}
+
